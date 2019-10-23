@@ -1,5 +1,5 @@
 # Clinical_Trials_crawler
-Web crawler from https://clinicaltrials.gov/
+Web crawler to download information from https://clinicaltrials.gov/
 
 The official resources as below:
 Linking to the official Site
